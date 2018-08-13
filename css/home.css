@@ -1,0 +1,25 @@
+﻿body {
+}
+
+.tag-title {
+    color: black;
+}
+.card-view {
+    float: left;
+    padding-bottom: 20px;
+}
+.card-view p{
+    max-height: 50px;
+    overflow: hidden;
+}
+.card-title {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+}
+.card-source {
+    text-transform: uppercase;
+    border-left: 2px solid red;
+    padding-left: 10px;
+    color: #767676;
+}
