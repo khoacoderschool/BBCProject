@@ -38,6 +38,8 @@ header input {
 #footer {
     background-color: #4c4c4c;
     color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 #footer a{
     color: white;
